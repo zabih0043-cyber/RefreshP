@@ -454,6 +454,7 @@ a {
 
   .content-panel {
     width: min(100%, 21rem);
+    margin-top: 1.35rem;
     gap: 2.9rem;
   }
 
@@ -505,7 +506,7 @@ a {
   }
 
   .powered-by {
-    margin-top: 0.18rem;
+    margin-top: 1.9rem;
     font-size: 0.63rem;
   }
 }
